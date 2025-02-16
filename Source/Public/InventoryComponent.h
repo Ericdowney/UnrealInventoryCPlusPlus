@@ -10,7 +10,7 @@
 #include "InventoryComponent.generated.h"
 
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class ARDEN_CPP_WITCH_API UInventoryComponent : public UActorComponent
+class <PROJECT_API> UInventoryComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

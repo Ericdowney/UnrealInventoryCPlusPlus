@@ -12,7 +12,7 @@
  * Structure to hold `FUInventoryItem` and the amount "stacked" as a single slot.
  */
 UCLASS(BlueprintType)
-class ARDEN_CPP_WITCH_API UInventorySlot : public UObject
+class <PROJECT_API> UInventorySlot : public UObject
 {
 	GENERATED_BODY()
 	

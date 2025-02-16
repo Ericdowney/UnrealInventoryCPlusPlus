@@ -12,7 +12,7 @@
  * Structure for in-game items that can be collected by the Player and stored in an `UInventoryComponent`.
  */
 USTRUCT(BlueprintType)
-struct ARDEN_CPP_WITCH_API FUInventoryItem : public FTableRowBase
+struct <PROJECT_API> FUInventoryItem : public FTableRowBase
 {
     GENERATED_BODY()
 
